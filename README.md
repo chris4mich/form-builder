@@ -32,5 +32,3 @@ This project is structured into two main modules:
 
 ---
 
-## 📂 Project Structure
-
